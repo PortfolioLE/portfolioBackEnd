@@ -1,7 +1,7 @@
 # portfolioBackEnd
 Backend del portfolio. Codigo hecho con Java y Base de datos con SQL.
 
-# Lo que queremos del Portafolio Web
+# Lo que quiero del Portafolio Web
 
 Se deberá desarrollar una página web que funcione como un portafolio digital, permitiendo la visualización de proyectos previamente realizados. La plataforma contará con dos tipos de usuarios:
 
